@@ -1,4 +1,4 @@
-# AutoCorrection
+# TextSuggestion
 
 This repo is a mini-project for **Data Structures** course at _"Faculty of Engineering, Alexandria University"_.
 
